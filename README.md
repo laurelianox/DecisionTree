@@ -58,6 +58,6 @@ https://github.com/laurelianox
 
 Saiba Mais sobre Árvore de Decisão: https://sigmoidal.ai/entendendo-as-arvores-de-decisao-em-machine-learning/
 
-##Observação
-Apesar de ter entendido o conceito e como se interpreta os nós, não entendi os últimos nós respondem. Preciso estudar mais.
+## Observação
+<strong>Apesar de ter entendido o conceito e como se interpreta os nós, não entendi o que os últimos nós respondem. Preciso estudar mais.</strong>
 
