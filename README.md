@@ -5,6 +5,10 @@
 ## O que é ?
 Prática para implementar uma árvore de decisão em um dataset sobre diabetes.
 
+## Versões:
+DecisionTree - versão com comentários sobre as bibliotecas e métodos usados. Aconselhado para estudantes.<br>
+DecisionTree_ClearVersion - versão só com a aplicação.
+
 ## Nesta prática utilizamos:
 Python<br>
 Pandas<br>
